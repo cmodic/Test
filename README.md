@@ -55,7 +55,8 @@ Then continue with launching the server.
 #### Running the app on Heroku
 
 To submit the code you will need to launch a heroku application with your app, you may also do this to debug. You will need to go to http://heroku.com and signup with a new account then follow these steps:
-    % heroku login
+
+  % heroku login
 
 Enter your login info when prompted (that you used to sign up at heroku.com) and respond 'yes' when it asks to create a public key. 
 
